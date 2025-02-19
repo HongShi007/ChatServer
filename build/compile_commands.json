@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/db -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/model -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/redis -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/chatserver.cpp",
+  "file": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/db -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/model -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/redis -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/chatservice.cpp",
+  "file": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/db -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/model -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/redis -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/main.cpp",
+  "file": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/main.cpp"
+},
+{
+  "directory": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/db -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/model -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/redis -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/db/db.cpp",
+  "file": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/db -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/model -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/redis -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/friendmoel.cpp.o -c /home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/model/friendmoel.cpp",
+  "file": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/model/friendmoel.cpp"
+},
+{
+  "directory": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/db -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/model -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/redis -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/model/groupmodel.cpp",
+  "file": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/db -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/model -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/redis -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/db -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/model -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/redis -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/model/usermodel.cpp",
+  "file": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/db -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/model -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/redis -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/redis/redis.cpp",
+  "file": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/build/src/client",
+  "command": "/usr/bin/g++  -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/db -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/model -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/include/server/redis -I/home/hong/桌面/Hong_Code_Projects/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/hong/桌面/Hong_Code_Projects/chatserver-master/src/client/main.cpp",
+  "file": "/home/hong/桌面/Hong_Code_Projects/chatserver-master/src/client/main.cpp"
+}
+]
